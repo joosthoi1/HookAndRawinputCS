@@ -1,0 +1,17 @@
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.exe
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.deps.json
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.runtimeconfig.json
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.dll
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\UsingCppDlls.pdb
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.csprojAssemblyReference.cache
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.Form1.resources
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.csproj.GenerateResource.cache
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.AssemblyInfo.cs
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.csproj.CoreCompileInputs.cache
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.dll
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.pdb
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.genruntimeconfig.cache
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\bin\Debug\netcoreapp3.1\RawInput.Sharp.dll
+C:\Users\Joost\source\repos\UsingCppDll\UsingCppDlls\obj\Debug\netcoreapp3.1\UsingCppDlls.csproj.CopyComplete
